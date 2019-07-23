@@ -14,6 +14,7 @@ int main()
 {
    int x,y,z;
    string s1,s2;
-   read(x,y,z,s1,s2);
-   write(x,y,z,s1,s2);
+//    read(x,y,z,s1,s2);
+//    write(x,y,z,s1,s2);
+    cout<<"HELLO WORLD"<<endl;
 }
