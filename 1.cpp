@@ -12,8 +12,8 @@ void write(T... args)
 }
 int main()
 {
-   int x,y,z;
+   int a,b,c;
    string s1,s2;
-   read(x,y,z,s1,s2);
-   write(x,y,z,s1,s2);
+   read(a,b,c,s1,s2);
+   write(a,b,c,s1,s2);
 }
